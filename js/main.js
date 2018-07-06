@@ -166,6 +166,35 @@
 
 	};
 
+	function zeroPad(num, places) {
+		var zero = places - num.toString().length + 1;
+		return Array(+(zero > 0 && zero)).join("0") + num;
+	  }
+
+	var loadPhotos = function() {
+		var photosContainer = $('#photos-container');
+		var htmlString = '';
+
+		for(var i = 30; i < 115; i++) {
+			htmlString += `<img src="./images/gallery/thumbnails/${zeroPad(i,3)}.jpg" class="grid-item" style="margin:10px"/>`
+		}
+
+		photosContainer.html(htmlString);
+	};
+
+	var masonryLayout = function() {
+		  var $grid = $('.grid').masonry({
+			itemSelector: '.grid-item',
+			gutter: 10
+		  });
+		  // layout Masonry after each image loads
+		  $grid.imagesLoaded().progress( function() {
+			$grid.masonry('layout');
+		  });
+	};
+
+	
+
 	// Document on load.
 	$(function(){
 		fullHeight();
@@ -175,6 +204,8 @@
 		counterWayPoint();
 		burgerMenu();
 		mobileMenuOutsideClick();
+		loadPhotos();
+		masonryLayout();
 	});
 
 
