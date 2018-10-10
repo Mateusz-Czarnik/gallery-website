@@ -173,7 +173,7 @@
         var photosContainer = $('#photos-container');
         var htmlString = '';
 
-        for (var i = 1; i < 216; i++) {
+        for (var i = 1; i < 260; i++) {
             htmlString += `<img src="./images/gallery/thumbnails/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
         }
 
