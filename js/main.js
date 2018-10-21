@@ -173,8 +173,19 @@
         var photosContainer = $('#photos-container');
         var htmlString = '';
 
-        for (var i = 1; i < 260; i++) {
-            htmlString += `<img src="./images/gallery/thumbnails/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
+        for (var i = 1; i < 46; i++) {
+            htmlString += `<img src="./images/gallery/available/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
+        }
+
+        photosContainer.html(htmlString);
+    };
+
+    var loadPhotos2 = function () {
+        var photosContainer = $('#photos-container2');
+        var htmlString = '';
+
+        for (var i = 1; i < 255; i++) {
+            htmlString += `<img src="./images/gallery/unavailable/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
         }
 
         photosContainer.html(htmlString);
@@ -204,6 +215,7 @@
         burgerMenu();
         mobileMenuOutsideClick();
         loadPhotos();
+        loadPhotos2();
         masonryLayout();
     });
 
