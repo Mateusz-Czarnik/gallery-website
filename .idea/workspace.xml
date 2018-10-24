@@ -1,17 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84d02168-875d-4cf5-b179-444bec94494a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/google_map.js" beforeDir="false" />
+    <list default="true" id="84d02168-875d-4cf5-b179-444bec94494a" name="Default" comment="Separate between available and unavailable items">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/006.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/007.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/009.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/010.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/011.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/012.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/013.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/013.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/014.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/014.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/015.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/016.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/016.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/017.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/018.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/019.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/020.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/021.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/021.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/022.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/023.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/023.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/024.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/025.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/026.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/027.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/027.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/028.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/029.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/029.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/030.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/030.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/031.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/031.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/032.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/033.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/033.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/034.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/034.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/035.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/035.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/036.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/037.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/037.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/038.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/038.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/039.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/039.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/040.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/040.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/041.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/041.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/042.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/042.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/043.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/043.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/044.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/044.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/045.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/available/045.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/available/047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/182.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/182.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/185.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/185.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/186.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/186.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/188.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/189.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/189.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/190.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/192.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/192.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/193.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/194.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/194.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/195.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/197.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/197.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/198.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/198.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/201.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/201.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/203.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/203.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/205.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/205.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/207.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/207.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/208.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/209.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/209.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/210.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/210.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/212.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/212.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/213.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/214.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/214.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/215.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/215.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/216.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/216.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/218.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/218.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/221.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/221.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/223.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/223.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/226.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/227.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/227.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/228.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/228.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/230.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/230.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/231.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/231.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/234.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/234.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/236.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/237.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/237.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/238.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/238.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/239.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/239.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/240.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/240.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/242.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/242.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/243.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/243.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/244.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/244.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/246.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/246.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/247.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/247.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/248.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/248.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/249.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/249.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/251.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/251.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/252.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/253.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/253.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gallery/unavailable/256.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/gallery/unavailable/256.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,32 +136,56 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1766712199">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="31" />
+          <entry key="js" value="29" />
+          <entry key="txt" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="31" />
+          <entry key="JavaScript" value="29" />
+          <entry key="PLAIN_TEXT" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.create.new" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="926">
-              <caret line="135" column="50" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
+            <state relative-caret-position="307">
+              <caret line="124" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="144" column="12" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="186" column="28" selection-start-line="186" selection-start-column="28" selection-end-line="186" selection-end-column="28" />
+            <state relative-caret-position="600">
+              <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
               <folding>
+                <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -61,6 +201,7 @@
       <find>wes</find>
       <find>nature</find>
       <find>mason</find>
+      <find>photos-</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Moje\Github\gallery-website</dir>
@@ -68,6 +209,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,22 +231,24 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1720" />
-    <option name="height" value="1400" />
+    <option name="x" value="-7" />
+    <option name="width" value="1734" />
+    <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -114,11 +262,16 @@
               <item name="gallery-website" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gallery-website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gallery-website" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,44 +297,23 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -196,42 +328,51 @@
       <updated>1532010190752</updated>
       <workItem from="1532010193726" duration="1015000" />
     </task>
+    <task id="LOCAL-00001" summary="Separate between available and unavailable items">
+      <created>1540131368766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540131368766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1015000" />
+    <option name="totallyTimeSpent" value="4260000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1720" height="1400" extended-state="0" />
+    <frame x="-7" y="0" width="1734" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25029868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32757267" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,42 +381,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Separate between available and unavailable items" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separate between available and unavailable items" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/google_map.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/google_map.js" />
+    <entry file="file://$PROJECT_DIR$/single.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/portfolio.html" />
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/single.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="122" column="12" selection-start-line="122" selection-start-column="12" selection-end-line="129" selection-end-column="18" />
+          <caret line="134" column="44" selection-start-line="134" selection-start-column="44" selection-end-line="134" selection-end-column="44" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="926">
-          <caret line="135" column="50" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
+        <state relative-caret-position="307">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="144" column="12" selection-start-line="144" selection-start-column="7" selection-end-line="144" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="186" column="28" selection-start-line="186" selection-start-column="28" selection-end-line="186" selection-end-column="28" />
+        <state relative-caret-position="600">
+          <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
           </folding>
         </state>

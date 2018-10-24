@@ -173,7 +173,7 @@
         var photosContainer = $('#photos-container');
         var htmlString = '';
 
-        for (var i = 1; i < 44; i++) {
+        for (var i = 1; i < 72; i++) {
             htmlString += `<img src="./images/gallery/available/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
         }
 
@@ -184,7 +184,7 @@
         var photosContainer = $('#photos-container2');
         var htmlString = '';
 
-        for (var i = 1; i < 257; i++) {
+        for (var i = 1; i < 268; i++) {
             htmlString += `<img src="./images/gallery/unavailable/${zeroPad(i, 3)}.jpg" class="grid-item" style="margin:10px"/>`
         }
 
